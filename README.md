@@ -5,10 +5,10 @@ Uses useEffect and useReduce to manage fetch of online data.
 Lastly, this project uses Bootstrap themes to style and display our data.
 
 Git Clone to run: 
-git@github.com:SeanBarr/fetch-data.git
+git@github.com:SeanBarr/datafetch.git
 
 Live Demo Link: 
-https://seanbarr.github.io/data-fetch
+https://seanbarr.github.io/datafetch
 
 MIT License: 
 https://opensource.org/licenses/MIT
