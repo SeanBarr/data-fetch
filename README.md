@@ -4,8 +4,10 @@ Organize and display the data fetch in a way that is appropriate to the story yo
 Uses useEffect and useReduce to manage fetch of online data.
 Lastly, this project uses Bootstrap themes to style and display our data.
 
+![datafetch preview image](https://github.com/SeanBarr/data-fetch/blob/main/image/preview.png?raw=true)
+
 Git Clone to run: 
-git@github.com:SeanBarr/datafetch.git
+git@github.com:SeanBarr/data-fetch.git
 
 Live Demo Link: 
 https://seanbarr.github.io/data-fetch/
