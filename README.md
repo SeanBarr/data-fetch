@@ -8,7 +8,7 @@ Git Clone to run:
 git@github.com:SeanBarr/datafetch.git
 
 Live Demo Link: 
-https://seanbarr.github.io/datafetch
+https://seanbarr.github.io/data-fetch/
 
 MIT License: 
 https://opensource.org/licenses/MIT
